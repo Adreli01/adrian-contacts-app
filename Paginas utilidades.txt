@@ -1,0 +1,12 @@
+Pagina Web con MySQL y Flask
+
+https://www.youtube.com/watch?v=IgCfZkR8wME&t=6s
+
+Utilidades
+https://bootswatch.com/
+https://getbootstrap.com
+https://uigradients.com
+
+Programas:
+Paquete de Instalacion XAMP
+https://www.apachefriends.org/es/index.html  ------ Instala Apache, MariaDB, PHP y Perl
